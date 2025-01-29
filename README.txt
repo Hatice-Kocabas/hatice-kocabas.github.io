@@ -1,30 +1,36 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Website
 
+This repository contains the source code for my personal website, which is live at:
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+🔗 [hatice-kocabas.github.io](https://hatice-kocabas.github.io)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This website serves as my personal portfolio, where I showcase my projects, skills, and experiences. It is designed to provide an overview of my professional background and interests.
 
-(* = not included)
+## Repository
 
-AJ
-aj@lkn.io | @ajlkn
+The complete source code for this website can be found in this GitHub repository:
 
+🔗 [GitHub Repository](https://github.com/hatice-kocabas/hatice-kocabas.github.io)
 
-Credits:
+## Technologies Used
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- HTML
+- CSS
+- JavaScript
+- React.js (if applicable)
+- Other relevant frameworks or libraries (if any)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Deployment
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The website is hosted using GitHub Pages. Any changes pushed to the main branch are automatically deployed.
+
+## Contributions
+
+As this is a personal project, contributions are not currently accepted. However, feel free to explore the code and reach out if you have any suggestions!
+
+## Contact
+
+If you have any questions or feedback, feel free to connect with me:
+
+📧 [haticekcbas@gmail.com](mailto:haticekcbas@gmail.com)  
+📌 [LinkedIn](https://www.linkedin.com/in/haticekocabas)
